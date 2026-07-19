@@ -1,16 +1,13 @@
-# 🌺 SAJIB CHAT BOT
+# 🌺 MUKUL CHAT BOT
 
 > A Messenger Multi Device Bot To Take Your Messenger To Another Level!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=700&lines=Assalamualaikum+Everyone!;Welcome+To+SAJIB+CHAT+BOT!;Messenger+Multi+Device+Bot;Made+With+❤️+By+SAJIB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=700&lines=Assalamualaikum+Everyone!;Welcome+To+MUKUL +BOT!;Messenger+Multi+Device+Bot;Made+With+❤️+By+MUKUL />
 </p>
 
 <p align="center">
-forksub/stars/suchi9900/SAJIB---2?style=for-the-badge">
-
-<img src="https://komarev.com/ghpvc/?username=suchi9900&label=PROFILE+VIEWS&style=for-the-badge">
-
+  <img src="https://i.imgur.com/w6ZA3hR.jpeg" https="400">
 </p>
 
 <p align="centecenteras<img src="https://img.shields.io/badge/GITHUB-REPOSITORY-black?style=for-the-badge&logo=github">
@@ -71,7 +68,7 @@ npm start
 |-------------|---------|
 | 👤 Name | MUKUL DEVELOPER |
 | 🌍 Country | Bangladesh |
-| 📂 GitHub | 
+| 📂 GitHub | https://github.com/mukul-bot-v60/mukul-bot-V25-.git
 ---
 ☎️📡📡
 #whatappss
@@ -133,10 +130,9 @@ npm start
 # 📥 Installation
 
 ```bash
-git clone https://github.com/suchi9900/SAJIB---2.git
+https://github.com/mukul-bot-v60/mukul-bot-V25-.git
 
-cd SAJIB---2
-
+cd MUKul---2
 npm install
 
 npm start
@@ -201,7 +197,7 @@ Contributions are always welcome!
 
 <p align="center">
 
-<a href="https://github.com/suchi9900/SAJIB---2">
+<a href="https://github.com/mukul-bot-v60/mukul-bot-V25-.git2>
 <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
