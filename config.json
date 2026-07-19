@@ -1,5 +1,5 @@
 {
-  "Author": "Fucker Sajib 99",
+  "Author": "Fucker bo𝐭9",
   "version": "2.0.0",
   "language": "en",
   "DeveloperMode": false,
@@ -11,16 +11,16 @@
   "EMAIL": "your email",
   "PASSWORD": "your password",
   "OTPKEY": "",
-  "BOTNAME": "─꯭─⃝‌‌𝐒Ajib - Sexy bo𝐭",
-  "PREFIX": "/",
+  "BOTNAME": "─꯭─⃝‌‌📡Mukul bot 📡
+  "PREFIX": ".",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
-    "100049763741416",
-    "61586663640809",
-    "100044713412032"
+    "61591438445216",
+    "",
+    ""
   ],
-  "NDH": ["100044713412032"],
+  "NDH": ["61591438445216"],
   "adminOnly": false,
   "ndhOnly": false,
   "adminPaOnly": false,
