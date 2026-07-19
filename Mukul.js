@@ -1,4 +1,4 @@
-     const { spawn } = require("child_process");
+  const { spawn } = require("child_process");
 const axios = require("axios");
 const logger = require("./utils/log");
 
@@ -17,7 +17,7 @@ app.get("/", (req, res) => {
 });
 
 app.listen(port, () => {
-  logger("SAJIB CHAT BOT Dashboard Running...", "[ SAJIB ]");
+  logger("MUKUL CHAT BOT Dashboard Running...", "[ MUKUL]");
   logger(`Server running on port ${port}`, "[ SERVER ]");
 }).on("error", (err) => {
   logger(err.message, "[ ERROR ]");
@@ -66,22 +66,22 @@ function startBot(message) {
 
 axios
   .get(
-    "https://raw.githubusercontent.com/suchi9900/SAJIB---2/main/package.json"
+    "https://raw.githubusercontent.com/Mukul.bot.v60/main/package.json"
   )
   .then((res) => {
-    logger("━━━━━━━━━━━━━━━━━━━━━━━━━━━━", "[ SAJIB ]");
-    logger("🌺 SAJIB CHAT BOT 🌺", "[ NAME ]");
+    logger("━━━━━━━━━━━━━━━━━━━━━━━━━━━━", "[ MUKUL ]");
+    logger("🌺 MUKUL CHAT BOT 🌺", "[ NAME ]");
     logger(`📦 Package : ${res.data.name}`, "[ PACKAGE ]");
     logger(`🚀 Version : ${res.data.version}`, "[ VERSION ]");
     logger(`📝 Description : ${res.data.description}`, "[ DESCRIPTION ]");
-    logger("👨‍💻 Developer : SAJIB", "[ OWNER ]");
-    logger("🌐 GitHub : https://github.com/suchi9900/SAJIB---2", "[ GITHUB ]");
-    logger("━━━━━━━━━━━━━━━━━━━━━━━━━━━━", "[ SAJIB ]");
+    logger("👨‍💻 Developer : MUKUL", "[ OWNER ]");
+    logger("🌐 GitHub : https://github.com/mukul-bot-v60/mukul-bot-V25.git", "[ GITHUB ]");
+    logger("━━━━━━━━━━━━━━━━━━━━━━━━━━━━", "[ MUKUL ]");
   })
   .catch(() => {
-    logger("🌺 SAJIB CHAT BOT 🌺", "[ NAME ]");
-    logger("👨‍💻 Developer : SAJIB", "[ OWNER ]");
-    logger("🌐 GitHub : https://github.com/suchi9900/SAJIB---2", "[ GITHUB ]");
+    logger("🔰 MUKUL CHAT BOT 🔰", "[ NAME ]");
+    logger("👨‍💻 Developer : MUKUL", "[ OWNER ]");
+    logger("🌐 GitHub : https://github.com/mukul-bot-v60/mukul-bot-V25.git", "[ GITHUB ]");
   });
 
-startBot("🌺 Starting SAJIB CHAT BOT...");   
+startBot("🌺 Starting MUKUL CHAT BOT...");
