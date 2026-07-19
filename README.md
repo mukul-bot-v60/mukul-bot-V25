@@ -7,33 +7,19 @@
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/ZhfQKNU.jpeg" width="300"/>
-</p>
-
-<h2 align="center">SAJIB CHAT BOT</h2>
-<h4 align="center">Developed By SAJIB</h4>
-
-<p align="center">
-
-<img src="https://img.shields.io/github/forks/suchi9900/SAJIB---2?style=for-the-badge">
-
-<img src="https://img.shields.io/github/stars/suchi9900/SAJIB---2?style=for-the-badge">
+forksub/stars/suchi9900/SAJIB---2?style=for-the-badge">
 
 <img src="https://komarev.com/ghpvc/?username=suchi9900&label=PROFILE+VIEWS&style=for-the-badge">
 
 </p>
 
-<p align="center">
-
-<a href="https://github.com/suchi9900/SAJIB---2">
-<img src="https://img.shields.io/badge/GITHUB-REPOSITORY-black?style=for-the-badge&logo=github">
+<p align="centecenteras<img src="https://img.shields.io/badge/GITHUB-REPOSITORY-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://www.facebook.com/share/18w4eMJWWo/">
+
 <img src="https://img.shields.io/badge/FACEBOOK-PROFILE-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
 
-<a href="https://wa.me/8801922847973">
 <img src="https://img.shields.io/badge/WHATSAPP-CONTACT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
@@ -83,28 +69,14 @@ npm start
 
 | Information | Details |
 |-------------|---------|
-| 👤 Name | SAJIB |
-| 💻 Profession | CHAT BOT DEVELOPER |
+| 👤 Name | MUKUL DEVELOPER |
 | 🌍 Country | Bangladesh |
-| 📂 GitHub | https://github.com/suchi9900/SAJIB---2 |
-
+| 📂 GitHub | 
 ---
-
-# 📞 Contact
-
-## Facebook
-
-https://www.facebook.com/share/18w4eMJWWo/
-
-## WhatsApp
-
-https://wa.me/8801922847973
-
----
-
-# 🚀 Bot Features
-
-✅ Messenger Multi Device
+☎️📡📡
+#whatappss
+01607401000
+🔰SM MUKUL BOSS🔰
 
 ✅ AI Chat
 
@@ -176,14 +148,14 @@ npm start
 
 If you need any help, contact the developer.
 
-📘 Facebook
+📡 Facebook
+SM MUKUL Mia
+<p align="center">
+  <img src="https://i.imgur.com/w6ZA3hR.jpeg" https="400">
+</p>
 
-https://www.facebook.com/share/18w4eMJWWo/
-
-📱 WhatsApp
-
-https://wa.me/880
----
+📱 WhatsApps
+🔰01607401000🔰
 
 # 🌟 Special Thanks
 
